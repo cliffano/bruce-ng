@@ -1,6 +1,6 @@
-### Bruce Ng
+### Bruce-Ng
 
-Bruce Ng is a collection of productivity mini-tools written to save time from doing repetitive tasks.
+Bruce-Ng is a collection of productivity mini-tools written to save time from doing repetitive tasks when working with multiple software projects.
 
 ### Tools
 
