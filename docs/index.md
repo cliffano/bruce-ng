@@ -1,6 +1,6 @@
 ## Bruce-Ng
 
-Bruce-Ng is a collection of utility libraries and tools that I put together to save myself a considerable amount of time from doing repetitive tasks.
+Bruce-Ng is a collection of utility libraries and tools that I piece together to save myself a considerable amount of time from having to do repetitive tasks.
 
 ### Tools
 
