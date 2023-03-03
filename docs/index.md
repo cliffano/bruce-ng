@@ -8,7 +8,7 @@ bruce-ng is a collection of utility libraries and tools that I piece together to
 
 ### API
 
-* [swaggy-c](https://github.com/cliffano/swaggy-c) - Builder for OpenAPIGenerator-generated API clients in multiple languages
+* [Swaggy C](https://github.com/cliffano/swaggy-c) - Builder for OpenAPIGenerator-generated API clients in multiple languages
 
 ## The Real Bruce Ng
 
