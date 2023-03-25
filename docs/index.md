@@ -1,6 +1,6 @@
 # bruce-ng
 
-bruce-ng is a collection of utility libraries and tools that I pieced together to save myself a considerable amount of time from having to do repetitive tasks. Usually it starts when I'm in the middle of repeating a task for the second/third time and I know I will have to do it dozens more times at the very least.
+bruce-ng is a collection of utility libraries and tools that I pieced together throughout the years in order to save myself a considerable amount of time from having to do repetitive tasks. Usually the effort starts with a frustration, when I'm in the middle of repeating a task for the second/third time, and I just know that I will have to repeat the task dozens more times at the very least.
 
 ### Code Management
 
@@ -9,7 +9,7 @@ bruce-ng is a collection of utility libraries and tools that I pieced together t
 
 ### Build
 
-### CI/CD
+* [Bob](https://github.com/cliffano/bob) - Minimalist-omakase build tool for node.js projects
 
 ### API
 
@@ -17,6 +17,10 @@ bruce-ng is a collection of utility libraries and tools that I pieced together t
 * [OpenAPI Ipify](https://github.com/cliffano/openapi-ipify) - OpenAPI v3 specification and a set of generated API clients for ipify
 
 ### Database
+
+### Web Site Management
+
+* [Terraform Kon-Tiki](https://github.com/cliffano/terraform-kon-tiki) - Terraform module for provisioning infrastructure on AWS for hosting static web sites with https support
 
 ## The Real Bruce Ng
 
