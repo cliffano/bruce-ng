@@ -1,13 +1,15 @@
 # bruce-ng
 
-bruce-ng is a collection of open source utility libraries and tools that I pieced together throughout the years in order to save myself a considerable amount of time from having to do repetitive tasks. Usually the effort starts with a frustration, when I'm in the middle of repeating a task for the second/third time, and I just know that I will have to repeat the task dozens more times at the very least. And at other times, it's me telling myself "Hey, I could save more time if I build <something> to do <something>..."
+bruce-ng is a collection of open source utility libraries and tools that I pieced together throughout the years in order to save myself a considerable amount of time from having to do repetitive tasks. Usually the effort starts with a frustration, when I'm in the middle of repeating a task for the second/third time, and I just know that I will have to repeat the task dozens more times at the very least. And at other times, it's me telling myself "Hey, I could save more time if I build tool X to do task Y..."
 
 ### CI/CD
 
 * [Bob](https://github.com/cliffano/bob) - Minimalist-omakase build tool for node.js projects
+* [Jenkins Workspace](https://github.com/cliffano/jenkins-workspace) - Simple workspace area for running multiple versions of Jenkins
 * [Nestor](https://github.com/cliffano/nestor) - Jenkins CLI and node.js client
 * [Swaggy Jenkins](https://github.com/cliffano/swaggy-jenkins) - A set of Jenkins API clients in multiple languages generated from Swagger / Open API specification
 * [Swaggy Jenkins CLI](https://github.com/cliffano/swaggy-jenkins-cli) - CLI utility tool for Swaggy Jenkins library
+* [Systems Info](https://github.com/cliffano/systems-info) - Systems info of GitHub Actions runners
 
 ### Code Management
 
@@ -18,6 +20,7 @@ bruce-ng is a collection of open source utility libraries and tools that I piece
 ### API
 
 * [Swaggy C](https://github.com/cliffano/swaggy-c) - Builder for OpenAPIGenerator-generated API clients in multiple languages
+* [Packer Swaggy C](https://github.com/cliffano/packer-swaggy-c) - Packer builder of Docker image which contains Swagger CodeGen supported languages, Swagger CodeGen CLI jar, and Swaggy C
 
 ### Web
 
