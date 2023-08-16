@@ -1,6 +1,6 @@
 # bruce-ng
 
-bruce-ng is a collection of open source utility libraries and tools that I pieced together throughout the years in order to save myself a considerable amount of time from having to do repetitive tasks. Usually the effort starts with a frustration, when I'm in the middle of repeating a task for the second/third time, and I just know that I will have to repeat the task dozens more times at the very least. And at other times, it's me telling myself "Hey, I could save more time if I build tool X to do task Y..."
+bruce-ng is a collection of open source utility libraries and tools that I pieced together throughout the years in order to save myself a load amount of time from having to do annoying repetitive tasks. Usually the effort begins with a frustration when I'm in the middle of repeating a task for the second or third time, and I just know that I will have to repeat the same task at the very least dozens more times. And at other times, it's me telling myself "Hey, I could save some time if I build tool X to do task Y..."
 
 ### Build & CI/CD
 
