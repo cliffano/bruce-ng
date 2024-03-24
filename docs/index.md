@@ -1,15 +1,26 @@
+![Bruce Ng Logo](images/logo.png)
+
 # bruce-ng
 
-bruce-ng is a collection of open source utility libraries and tools that I pieced together throughout the years in order to save myself a load amount of time from having to do annoying repetitive tasks. Usually the effort begins with a frustration when I'm in the middle of repeating a task for the second or third time, and I just know that I will have to repeat the same task at the very least dozens more times. And at other times, it's me telling myself "Hey, I could save some time if I build tool X to do task Y..."
+bruce-ng is a collection of open source utility libraries and tools that I pieced together throughout the years in order to save myself from having to do annoying repetitive tasks.
+
+### API
+
+* [Swaggy C](https://github.com/cliffano/swaggy-c) - Builder for OpenAPIGenerator-generated API clients in multiple languages
+* [Swaggy K](https://github.com/cliffano/swaggy-k) - Builder for Kiota-generated API clients in multiple languages
+* [Packer Swaggy C](https://github.com/cliffano/packer-swaggy-c) - Packer builder of Docker image which contains Swagger CodeGen supported languages, Swagger CodeGen CLI jar, and Swaggy C
 
 ### Build & CI/CD
 
 * [Bob](https://github.com/cliffano/bob) - Minimalist-omakase build tool for node.js projects
 * [Jenkins Workspace](https://github.com/cliffano/jenkins-workspace) - Simple workspace area for running multiple versions of Jenkins
 * [Nestor](https://github.com/cliffano/nestor) - Jenkins CLI and node.js client
-* [Swaggy Jenkins](https://github.com/cliffano/swaggy-jenkins) - A set of Jenkins API clients in multiple languages generated from Swagger / Open API specification
+* [Swaggy Jenkins](https://github.com/oapicf/swaggy-jenkins) - A set of Jenkins API clients in multiple languages generated from Swagger / Open API specification
 * [Swaggy Jenkins CLI](https://github.com/cliffano/swaggy-jenkins-cli) - CLI utility tool for Swaggy Jenkins library
-* [Systems Info](https://github.com/cliffano/systems-info) - Systems info of GitHub Actions runners
+
+### Cloud
+
+* [Awstaga](https://github.com/cliffano/awstaga) - Python CLI for tagging AWS resources defined in a YAML configuration
 
 ### Code Management
 
@@ -17,34 +28,26 @@ bruce-ng is a collection of open source utility libraries and tools that I piece
 * [Repoman](https://github.com/cliffano/repoman) - Multi-repository source code management command-line tool
 * [RTK](https://github.com/cliffano/rtk) - Agnostic software release tool for managing versions on changelog, multi-format files, and also for tagging source code
 
-### API
-
-* [Swaggy C](https://github.com/cliffano/swaggy-c) - Builder for OpenAPIGenerator-generated API clients in multiple languages
-* [Packer Swaggy C](https://github.com/cliffano/packer-swaggy-c) - Packer builder of Docker image which contains Swagger CodeGen supported languages, Swagger CodeGen CLI jar, and Swaggy C
-
-### Web Content Management
-
-* [ae86](https://github.com/cliffano/ae86) - Old school static website generator
-* [AEM Workspace](https://github.com/cliffano/aem-workspace) - Simple workspace area for running multiple versions of Adobe Experience Manager (AEM)
-* [FeedPaper](https://github.com/cliffano/feedpaper) - A feed reader + readability mashup for reading on handheld devices
-* [Packer Kon-Tiki](https://github.com/cliffano/packer-kon-tiki) - Packer builder of Docker image containing the software needed to build many micro sites maintained by Studio C
-* [Terraform Kon-Tiki](https://github.com/cliffano/terraform-kon-tiki) - Terraform module for provisioning infrastructure on AWS for hosting static web sites with https support
-
 ### Database
 
 * [Couchtato](https://github.com/cliffano/couchtato) - CouchDB database iterator tool
-
-### Network
-
-* [OpenAPI Ipify](https://github.com/cliffano/openapi-ipify) - OpenAPI v3 specification and a set of generated API clients for ipify
-* [Open Sesame](https://github.com/cliffano/open-sesame) - CLI tool for adding your public IP address to AWS security group's inbound rules
 
 ### Devices
 
 * [BuildLight](https://github.com/cliffano/buildlight) - node.js library for Delcom USB Visual Indicator
 * [Nestor Build Light](https://github.com/cliffano/nestor-buildlight) - CLI for Jenkins build light notifier
 * [Nestor LIFX](https://github.com/cliffano/nestor-lifx) - CLI for Jenkins LIFX notifier
+* [Systems Info](https://github.com/cliffano/systems-info) - Systems info of GitHub Actions runners
 * [USBLED Standalone](https://github.com/cliffano/usbled-standalone) - A USB LED Linux device driver for stand-alone kernel insertion
+
+### Logging
+
+* [Conflog](https://github.com/cliffano/pyconflog) - Python logging setup via environment variables and configuration files
+
+### Network
+
+* [OpenAPI Ipify](https://github.com/oapicf/openapi-ipify) - OpenAPI v3 specification and a set of generated API clients for ipify
+* [Open Sesame](https://github.com/oapicf/open-sesame) - CLI tool for adding your public IP address to AWS security group's inbound rules
 
 ### Social
 
@@ -54,6 +57,14 @@ bruce-ng is a collection of open source utility libraries and tools that I piece
 
 * [Cmdt](https://github.com/cliffano/cmdt) - Command-line tool for testing command-line tools
 * [DataGen](https://github.com/cliffano/datagen) - Multi-process test data files generator
+
+### Web Content Management
+
+* [ae86](https://github.com/cliffano/ae86) - Old school static website generator
+* [AEM Workspace](https://github.com/cliffano/aem-workspace) - Simple workspace area for running multiple versions of Adobe Experience Manager (AEM)
+* [FeedPaper](https://github.com/cliffano/feedpaper) - A feed reader + readability mashup for reading on handheld devices
+* [Packer Kon-Tiki](https://github.com/cliffano/packer-kon-tiki) - Packer builder of Docker image containing the software needed to build many micro sites maintained by Studio C
+* [Terraform Kon-Tiki](https://github.com/cliffano/terraform-kon-tiki) - Terraform module for provisioning infrastructure on AWS for hosting static web sites with https support
 
 ### Conversation Interface
 
@@ -77,4 +88,4 @@ bruce-ng is a collection of open source utility libraries and tools that I piece
 
 "The overtime alone will be a nightmare." -- Bruce Ng
 
-![Bruce Ng](images/splash.png)
+![Bruce Ng Splash Image](images/splash.png)
