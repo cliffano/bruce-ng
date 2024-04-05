@@ -2,7 +2,7 @@
 
 # bruce-ng
 
-bruce-ng is a collection of open source utility libraries and tools that I put together throughout the years in order to save myself from having to do annoying repetitive tasks.
+bruce-ng is a collection of open source utility libraries and tools that I put together throughout the years in order to simplify various tasks and to save time from having to do them repetitively.
 
 ### API
 
