@@ -14,6 +14,7 @@ bruce-ng is a collection of open source utility libraries and tools that I put t
 ### Build & CI/CD
 
 * [Bob](https://github.com/cliffano/bob) - Minimalist-omakase build tool for node.js projects
+* [Command Loop Action](https://github.com/cliffano/command-loop-action) - GitHub Action for running a shell command in a loop against a list of items
 * [Jenkins Workspace](https://github.com/cliffano/jenkins-workspace) - Simple workspace area for running multiple versions of Jenkins
 * [Nestor](https://github.com/cliffano/nestor) - Jenkins CLI and node.js client
 * [Swaggy Jenkins CLI](https://github.com/cliffano/swaggy-jenkins-cli) - CLI utility tool for Swaggy Jenkins library
@@ -67,7 +68,7 @@ bruce-ng is a collection of open source utility libraries and tools that I put t
 * [Convo Jenkins](https://github.com/cliffano/convo-jenkins-helper) - Helper node.js module for Convo Jenkins
 * [Convo Thomas](https://github.com/cliffano/convo-thomas) - Convo agent for Thomas the Tank Engine Facts application
 
-### Others
+### Utilities
 
 * [Bag of CLI](https://github.com/cliffano/bagofcli) - A library for defining CLI commands as JSON configuration
 * [Bag of Request](https://github.com/cliffano/bagofrequest) - A bag-of-holding containing request utility functions
