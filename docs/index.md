@@ -17,6 +17,7 @@ bruce-ng is a collection of open source utility libraries and tools that I put t
 * [Command Loop Action](https://github.com/cliffano/command-loop-action) - GitHub Action for running a shell command in a loop against a list of items
 * [Jenkins Workspace](https://github.com/cliffano/jenkins-workspace) - Simple workspace area for running multiple versions of Jenkins
 * [Nestor](https://github.com/cliffano/nestor) - Jenkins CLI and node.js client
+* [Release Action](https://github.com/cliffano/release-action) - GitHub Action for creating a repository release using RTK
 * [Swaggy Jenkins CLI](https://github.com/cliffano/swaggy-jenkins-cli) - CLI utility tool for Swaggy Jenkins library
 
 ### Cloud
@@ -41,6 +42,9 @@ bruce-ng is a collection of open source utility libraries and tools that I put t
 * [Nestor LIFX](https://github.com/cliffano/nestor-lifx) - CLI for Jenkins LIFX notifier
 * [Systems Info](https://github.com/cliffano/systems-info) - Systems info of GitHub Actions runners
 * [USBLED Standalone](https://github.com/cliffano/usbled-standalone) - A USB LED Linux device driver for stand-alone kernel insertion
+
+### IaC
+* [Packer Post-Processor JSON Updater](https://github.com/cliffano/packer-post-processor-json-updater) - Packer Post-Processor plugin for updating JSON files
 
 ### Logging
 
@@ -74,7 +78,6 @@ bruce-ng is a collection of open source utility libraries and tools that I put t
 * [Bag of Request](https://github.com/cliffano/bagofrequest) - A bag-of-holding containing request utility functions
 * [Health](https://github.com/cliffano/health) - Resource health status checking library
 * [Jazz CLI](https://github.com/cliffano/jazz-cli) - CLI for Jazz templating engine
-* [Packer Post-Processor JSON Updater](https://github.com/cliffano/packer-post-processor-json-updater) - Packer Post-Processor plugin for updating JSON files
 * [Packer Studio](https://github.com/cliffano/packer-studio) - Packer builder of machine image which contains the tech stacks that I use the most
 
 ## The Real Bruce Ng
